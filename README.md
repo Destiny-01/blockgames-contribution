@@ -28,3 +28,8 @@ Tweaked the frontend integration to upload json data instead of the image to the
 3. https://github.com/IhuomaO/Buterin-Decentralized-Library/commit/6308a97da1983b0845f74c598c97809790732775
 
 Created the frontend functionality to view and share files
+
+
+## 3rd Assignment: Decentralized Voting
+1. https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/16
+I wrote the passing tests for the team
